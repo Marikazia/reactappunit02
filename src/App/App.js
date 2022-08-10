@@ -1,9 +1,9 @@
-
+import Header from "../Header/Header";
 
 function App() {
 	return(
 		<div>
-			1
+			<Header/>
 		</div>
 	);
 }
